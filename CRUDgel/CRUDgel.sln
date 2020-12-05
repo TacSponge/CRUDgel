@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDgel", "CRUDgel\CRUDgel.csproj", "{7E1924B5-36D4-465F-BA5A-F6B706BE692E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDgel", "CRUDgel\CRUDgel.csproj", "{7E1924B5-36D4-465F-BA5A-F6B706BE692E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDGelTests", "CRUDGelTests\CRUDGelTests.csproj", "{414AD45D-58D5-41D7-B57C-DF40CE308F77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7E1924B5-36D4-465F-BA5A-F6B706BE692E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E1924B5-36D4-465F-BA5A-F6B706BE692E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E1924B5-36D4-465F-BA5A-F6B706BE692E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414AD45D-58D5-41D7-B57C-DF40CE308F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414AD45D-58D5-41D7-B57C-DF40CE308F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414AD45D-58D5-41D7-B57C-DF40CE308F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414AD45D-58D5-41D7-B57C-DF40CE308F77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
