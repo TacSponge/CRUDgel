@@ -4,5 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties characters_1json__JsonSchema="https://json-stat.org/format/schema/2.0/" /></VisualStudio></ProjectExtensions>
+
 
 </Project>

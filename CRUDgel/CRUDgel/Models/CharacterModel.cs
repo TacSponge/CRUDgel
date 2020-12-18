@@ -17,5 +17,6 @@ namespace CRUDgel.Models
         public string Class { get; set; } = "PunchPunch";
         public int level { get; set; } = 3;
 
+
     }
 }
